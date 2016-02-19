@@ -6,4 +6,4 @@ Software Engineer Hello World
 
 # Lab Guide (PT)
 
-Please be free to see the [Lab Guide](content/guialab.pdf)(PT).
+Please be free to see the [Lab Guide](content/guialab.pdf) (PT).
